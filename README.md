@@ -21,17 +21,19 @@ The **Sweet Shop Website** is a **responsive front-end web application** designe
 ---
 
 ## Output
-<img src="Images/s1.png" alt="no image" width="600">
+<img src="Sweet_shop/Images/s1.png" alt="no image" width="600">
 
-<img src="Images/s2.png" alt="no image" width="600">
+<img src="Sweet_shop/Images/s2.png" alt="no image" width="600">
 
-<img src="Images/s3.png" alt="no image" width="600">
+<img src="Sweet_shop/Images/s3.png" alt="no image" width="600">
 
-<img src="Images/s4.png" alt="no image" width="600">
+<img src="Sweet_shop/Images/s4.png" alt="no image" width="600">
 
-<img src="Images/s5.png" alt="no image" width="600">
+<img src="Sweet_shop/Images/s5.png" alt="no image" width="600">
 
-<img src="Images/s6.png" alt="no image" width="600">
+<img src="Sweet_shop/Images/s6.png" alt="no image" width="600">
+
+<img src="Sweet_shop/Images/s7.png" alt="no image" width="600">
 
 
 
